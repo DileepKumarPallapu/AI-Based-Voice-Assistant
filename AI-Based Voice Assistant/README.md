@@ -39,4 +39,4 @@ AI-Based-Voice-Assistant/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/AI-Based-Voice-Assistant.git
+   git clone https://github.com/DileepKumarPallapu/AI-Based-Voice-Assistant.git
